@@ -1,11 +1,11 @@
 # GBM
 The scripts for article "Multi-omics analysis characterizes the spatial heterogeneity of glioblastoma ecoregions".
 
-The version of the software used in the analysis
+The version of the software used in the analysis:
 
 Image processing: ImageJ (v2.1.0), stardist (v0.8.3).
 
-Preprocessing of sequencing data: CellRanger software (v6.0.2), SpaceRanger software (v1.2.1), APEC (v1.1.0), STAR (v2.5.3), and RSEM (v1.3.1).
+Preprocessing of sequencing data: APEC (v1.1.0), STAR (v2.5.3), and RSEM (v1.3.1).
 
 scRNA-seq data processing: scDblFinder (v1.7.7), Seurat (v4.1.0), souporcell (v2.4), inferCNV (v1.6.0), palantir (v1.0.0), and PHATE (v0.3.0). 
 
