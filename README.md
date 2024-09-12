@@ -13,7 +13,7 @@ Deep learning model predict cell types: scArches (v0.5.9)
 
 Genomic data processing: BWA-MEM (c0.7.17), GATK (v4.1.3).
 
-Spatial transcriptome related analysis: Cell2location (v0.6), SPACEL (v1.1.6), COMMOT (v0.0.3), Tangram (v1.0.2), scVelo (v0.3.2), and NicheNet (v2.0.1).
+Spatial transcriptome related analysis: Cell2location (v0.6), SPACEL (v1.1.6), COMMOT (v0.0.3), Tangram (v1.0.2), and scVelo (v0.3.2).
 
 ISH data processing: ASHLAR (v1.14.1), DeepCell (v0.11.0) and Starfish (v0.2.2).
 
