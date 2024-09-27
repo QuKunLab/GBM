@@ -1,5 +1,5 @@
 # GBM
-The scripts for article "Multi-omics analysis characterizes the spatial heterogeneity of glioblastoma ecoregions".
+The scripts for article "Multi-omics analysis characterizes the spatial architecture of glioblastoma ecoregions".
 
 The version of the software used in the analysis:
 
