@@ -3,6 +3,8 @@ The scripts for article "Multi-omics analysis characterizes the spatial architec
 
 The version of the software used in the analysis:
 
+Analysis of electrophysiological recordings: Clampfit 10.3 software.
+
 Image processing: ImageJ (v2.1.0), Stardist (v0.8.3).
 
 Preprocessing of sequencing data: CellRanger(v6.0.2), SpaceRanger(v1.2.1), APEC (v1.1.0), STAR (v2.5.3), and RSEM (v1.3.1).
