@@ -20,3 +20,5 @@ Spatial transcriptome related analysis: Cell2location (v0.6), SPACEL (v1.1.6), C
 ISH data processing: ASHLAR (v1.14.1), DeepCell (v0.11.0) and Starfish (v0.2.2).
 
 scATAC processing: Signac (v1.9.0), Harmony (v1.0), and ArchR (v1.0.1).
+
+Pre-trained models required for transfer spatial domains by SCANVI: https://doi.org/10.5281/zenodo.15699049
